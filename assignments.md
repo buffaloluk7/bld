@@ -39,13 +39,17 @@ Das Programm lehnt sich an das Beispiel, welches auf der Flink-Website angeführ
 Sie haben in der LVA zwei Frameworks kennengelernt (R und Python). Nennen Sie zwei weitere Technologien, um Daten zu analysieren (müssen nicht open source sein). Sie bekommen den Auftrag, sich mit einer Data Science Technologie zu arbeiten. Nennen Sie Technologie, die ihnen auf dem ersten Blick am besten für Sie ersscheint und begründen Sie das!  
 
 Zwei weitere Frameworks/Sprachen: [Julia](http://julialang.org/), [Scala](http://www.scala-lang.org/).  
-Ich hatte bis jetzt noch nie die Gelegenheit mit R bzw. Python mehr als nur ein Paar Zeilen Code zu schreiben. Daher sind so gut wie alle Sprachen/Frameworks, die sich für Data Analysis anbieten, noch Neuland für mich. Python ist im Vergleich zu R was die Syntax anbelangt jedoch eher mit gängen Programmiersprachen wie Java, C#, (JavaScript), Go, etc. vergleichbar. Daher würde meine Wahl vermutlich auf Python fallen. Liest man sich diverse Artikel zu diesem Thema durch, so wird auch dort meist Python präferiert. [Hier](http://blog.udacity.com/2015/01/python-vs-r-learn-first.html), [hier](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python) und [hier](http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html).
+Ich hatte bis jetzt noch nie die Gelegenheit mit R bzw. Python mehr als nur ein Paar Zeilen Code zu schreiben. Daher sind so gut wie alle Sprachen/Frameworks, die sich für Data Analysis anbieten, noch Neuland für mich. Python ist im Vergleich zu R was die Syntax anbelangt jedoch eher mit gängen Programmiersprachen wie Java, C#, (JavaScript), Go, etc. vergleichbar. Daher würde meine Wahl vermutlich auf Python fallen. Liest man sich diverse Artikel zu diesem Thema durch, so wird auch dort meist Python präferiert. [Hier](http://blog.udacity.com/2015/01/python-vs-r-learn-first.html), [hier](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python) und [hier](http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html). Nichtsdestotrotz sollte eine Technologie nicht nur nach Bauchgefühl ausgesucht werden, sondern mit den Anforderungen des Projektes abgestimmt werden.
 
 ## Assignment 2: Technologien
 Entscheiden Sie sich für eine Data Science Plattform. R oder Python Installieren Sie die auf Ihrem Arbeitsgerät.
 * 1 Punkt: Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).
 * 2 Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
-* 1 Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
+* 1 Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)  
+
+Wie bereits bei Frage 2.1 erwähnt, würde meine Wahl auf Pythong fallen. Einerseits weil deren Syntax eher einer Hochsprache bzw. jenen Sprachen ähnelt, mit denen ich bis jetzt Kontakt hatte. Andererseits findet man immer mehr Projekte, die in Python geschrieben sind. Screenshots der installierten Umgebung befinden sich [hier](https://github.com/buffaloluk7/bld/blob/master/Python.png) und [hier](https://github.com/buffaloluk7/bld/blob/master/Python_Shell.png).  
+
+Da JetBrains auch für Pyhton eine eigene IDE anbietet, kommt in diesem Fall PyCharm zum Einsatz.
 
 ## Assignment 3: Big Science
 Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache Anleitung, wie man den richtigen Algorithmus zum richtigen Data Science Problem findet.  

@@ -15,7 +15,7 @@ Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet w
 * Batchdaten:
  * Tägliche Datenbank-Backups die ohne Benutzerinteraktion durchgeführt werden
  * Am Ende des Tages wird ein aktueller Report für jedes Projekt generiert, welcher den aktuellen Status der jeweiligen Projekte anzeigt.
-  
+
 ## Assignment 2: Big Data in Ihrem Umfeld (4 Punkte)
 Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark. Installieren Sie die auf Ihrem Arbeitsgerät.
 * Erklären Sie ihre Entscheidug

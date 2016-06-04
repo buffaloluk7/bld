@@ -1,5 +1,4 @@
 # Data Engineering
-
 ## Assignment 1: Big Data in Ihrem Umfeld (4 Punkte)
 Schauen Sie sich in Ihrem Umfeld um. FH Technikum oder Ihr Job. Nennen Sie mindestens ein Beispiel für Daten, die schemalos (unstrukturiert) sind und mindestens ein Bespiel für Daten, die strukturiert (schematisch) sind. (2 Punkte)  
 Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden. (2 Punkte)
@@ -37,8 +36,10 @@ Das Programm lehnt sich an das Beispiel, welches auf der Flink-Website angeführ
 
 # Data Science
 ## Assignment 1: Technologien (4 Punkte)
-1. Sie haben in der LVA zwei Frameworks kennengelernt (R und Python). Nennen Sie zwei weitere Technologien, um Daten zu analysieren (müssen nicht open source sein)
-2. Sie bekommen den Auftrag, sich mit einer Data Science Technologie zu arbeiten. Nennen Sie Technologie, die ihnen auf dem ersten Blick am besten für Sie ersscheint und begründen Sie das!
+Sie haben in der LVA zwei Frameworks kennengelernt (R und Python). Nennen Sie zwei weitere Technologien, um Daten zu analysieren (müssen nicht open source sein). Sie bekommen den Auftrag, sich mit einer Data Science Technologie zu arbeiten. Nennen Sie Technologie, die ihnen auf dem ersten Blick am besten für Sie ersscheint und begründen Sie das!  
+
+Zwei weitere Frameworks/Sprachen: [Julia](http://julialang.org/), [Scala](http://www.scala-lang.org/).  
+Ich hatte bis jetzt noch nie die Gelegenheit mit R bzw. Python mehr als nur ein Paar Zeilen Code zu schreiben. Daher sind so gut wie alle Sprachen/Frameworks, die sich für Data Analysis anbieten, noch Neuland für mich. Python ist im Vergleich zu R was die Syntax anbelangt jedoch eher mit gängen Programmiersprachen wie Java, C#, (JavaScript), Go, etc. vergleichbar. Daher würde meine Wahl vermutlich auf Python fallen. Liest man sich diverse Artikel zu diesem Thema durch, so wird auch dort meist Python präferiert. [Hier](http://blog.udacity.com/2015/01/python-vs-r-learn-first.html), [hier](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python) und [hier](http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html).
 
 ## Assignment 2: Technologien
 Entscheiden Sie sich für eine Data Science Plattform. R oder Python Installieren Sie die auf Ihrem Arbeitsgerät.

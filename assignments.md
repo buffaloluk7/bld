@@ -33,7 +33,7 @@ Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden 
 * 2 Punkte für Programm
 * 2 Punkte, wenn das Programm auch ausführbar ist.  
 
-Das Programm lehnt sich an das Beispiel, welches auf der Flink-Website angeführt ist, an. Das Programm setzt dabei auf die auf der Website verwiesenen Maven-Dependencies. Aufgabe dieses Programms ist es, die Häufigkeiten von Wörtern in einem String zu zählen. Sofern maven installiert ist, kann ein entsprechender Unit-Test über den Befehl `mvn test` ausgeführt werden. Anderenfalls kann der Unit-Test auch manuell über eine entsprechende IDE angestoßen werden. Zu finden ist das Sample im Ordner flink-sample bzw. [hier](https://github.com/buffaloluk7/bld/tree/master/flink-sample).
+Das Programm lehnt sich an das Beispiel, welches auf der Flink-Website angeführt ist, an. Das Programm setzt dabei auf die auf der Website verwiesenen Maven-Dependencies. Aufgabe dieses Programms ist es, die Häufigkeiten von Wörtern in einem String zu zählen. Sofern maven installiert ist, kann ein entsprechender Unit-Test über den Befehl `mvn test` ausgeführt werden. Anderenfalls kann der Unit-Test auch manuell über eine entsprechende IDE angestoßen werden. Zu finden ist das Sample im Ordner [flink-sample](https://github.com/buffaloluk7/bld/tree/master/flink-sample).
 
 # Data Science
 ## Assignment 1: Technologien (4 Punkte)

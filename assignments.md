@@ -24,9 +24,9 @@ Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Ap
 
 Bei der Wahl der Data Engineering Plattform ist natürlich zu berücksichtigen, welche Daten letzten Endes damit verarbeitet werden sollen. Sowohl Flink als auch Spark bieten eine große Palette an Features an. Dennoch hat sich bei der Recherche gezeigt, dass Apache Flink Apache Spark vorgezogen wird. [Hier](http://www.kdnuggets.com/2015/11/fast-big-data-apache-flink-spark-streaming.html) wird unter anderem ein Performance-Vergleich durchgeführt, welcher zugunsten Apache Flinks ausfällt. Weiters unterscheiden sich Spark und Flink dahingehend, dass Spark eher auf Batch-Verarbeitung ausgelegt ist, wohingegen Flink ein Stream processing framework ist [siehe hier](http://stackoverflow.com/questions/28082581/what-is-the-difference-between-apache-spark-and-apache-flink). Aufgrund dieser Informationen und jenem Vergleich in diesem [Video](https://www.youtube.com/watch?v=OHAv6o2fCi8), fällt meine Wahl auf Apache Flink. Ein Screenshot von Apache Flink ist [hier](https://github.com/buffaloluk7/bld/Apache_Flink.png) zu finden.  
   
-Neben der Installation und Ausführung von Apache Flink über das auf der Website angebotene Zip-Package, habe ich auch das Sample zum Laufen gebracht. Hierfür war es lediglich notwendig 3 Maven-Dependencies anzugeben, um das Programm lauffähig zu bekommen. Ein Screenshot dieses Beispiel-Programms befindet sich [hier](https://github.com/buffaloluk7/bld/Apache_Flink_Maven.png).  
+Neben der Installation und Ausführung von Apache Flink über das auf der Website angebotene Zip-Package, habe ich auch das Sample zum Laufen gebracht. Hierfür war es lediglich notwendig 3 Maven-Dependencies anzugeben, um das Programm lauffähig zu bekommen. Ein Screenshot dieses Beispiel-Programms befindet sich [hier](https://github.com/buffaloluk7/bld/Apache_Flink_Sample.png).  
   
-Daraus würde sich folgende Toolchain ergeben: JetBrains IntelliJ IDEA und Gradle.
+Daraus würde sich folgende Toolchain ergeben: JetBrains IntelliJ IDEA und Maven.
 
 ## Assignment 3: Big Data in Ihrem Umfeld (4 Punkte)
 Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch.

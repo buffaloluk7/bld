@@ -1,17 +1,20 @@
-#Data Engineering
+# Data Engineering
 
-##Assignment 1: Big Data in Ihrem Umfeld (4 Punkte)
-1. Schauen Sie sich in Ihrem Umfeld um. FH Technikum oder Ihr Job. Nennen Sie mindestens ein Beispiel für Daten, die schemalos (unstrukturiert) sind und mindestens ein Bespiel für Daten, die strukturiert (schematisch) sind. (2 Punkte)
-2. Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden. (2 Punkte)
+## Assignment 1: Big Data in Ihrem Umfeld (4 Punkte)
+Schauen Sie sich in Ihrem Umfeld um. FH Technikum oder Ihr Job. Nennen Sie mindestens ein Beispiel für Daten, die schemalos (unstrukturiert) sind und mindestens ein Bespiel für Daten, die strukturiert (schematisch) sind. (2 Punkte)  
+Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden. (2 Punkte)
 
-Antworten:
-  1. Strukturierte Daten:
-    * Daten, die durch das firmeninterne Zeitaufzeichnungstool generiert werden.
-    * Daten, die generiert werden, wenn die Alarmanlage scharf geschalten wird.
-    * Finanzdaten
-  2. Unstrukturierte Daten: E-Mails, Facebook-Posts
-  3. Gestreamte Daten: 
-  4. Batchdaten: 
+* Strukturierte Daten:
+ * Daten, die durch das firmeninterne Zeitaufzeichnungstool generiert werden.
+ * Im TFS verwaltete Projekte (Epics/Features/US/Tasks/etc.)
+* Unstrukturierte Daten:
+ * E-Mails
+ * Slack-Nachrichten (semistrukturiert)
+* Gestreamte Daten:
+ * Ein firmeninternes Tool ermöglicht die Verarbeitung und Visualisierung von Logging-Informationen, die von Komponenten an das Tool gestreamt werden können.
+* Batchdaten:
+ * Tägliche Datenbank-Backups die ohne Benutzerinteraktion durchgeführt werden
+ * Am Ende des Tages wird ein aktueller Report für jedes Projekt generiert, welcher den aktuellen Status der jeweiligen Projekte anzeigt.
   
 ##Assignment 2: Big Data in Ihrem Umfeld (4 Punkte)
 Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark. Installieren Sie die auf Ihrem Arbeitsgerät.

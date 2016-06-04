@@ -31,7 +31,8 @@ Daraus würde sich folgende Toolchain ergeben: JetBrains IntelliJ IDEA und Maven
 ## Assignment 3: Big Data in Ihrem Umfeld (4 Punkte)
 Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch.
 * 2 Punkte für Programm
-* 2 Punkte, wenn das Programm auch ausführbar ist.
+* 2 Punkte, wenn das Programm auch ausführbar ist.  
+
 Das Programm lehnt sich an das Beispiel, welches auf der Flink-Website angeführt ist, an. Das Programm setzt dabei auf die auf der Website verwiesenen Maven-Dependencies. Aufgabe dieses Programms ist es, die Häufigkeiten von Wörtern in einem String zu zählen. Sofern maven installiert ist, kann ein entsprechender Unit-Test über den Befehl `mvn test` ausgeführt werden. Anderenfalls kann der Unit-Test auch manuell über eine entsprechende IDE angestoßen werden.
 
 # Data Science
